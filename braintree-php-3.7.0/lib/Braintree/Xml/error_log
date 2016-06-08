@@ -1,0 +1,2 @@
+[07-Dec-2015 00:13:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Xml/Generator.php on line 2
+[07-Dec-2015 00:15:07] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Xml/Parser.php on line 2

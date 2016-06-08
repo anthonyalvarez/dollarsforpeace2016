@@ -1,0 +1,15 @@
+[07-Dec-2015 00:13:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/ForgedQueryString.php on line 2
+[07-Dec-2015 00:14:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/ServerError.php on line 2
+[07-Dec-2015 00:14:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/NotFound.php on line 2
+[07-Dec-2015 00:14:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/SSLCaFileNotFound.php on line 2
+[07-Dec-2015 00:14:37] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/UpgradeRequired.php on line 2
+[07-Dec-2015 00:14:43] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/ValidationsFailed.php on line 2
+[07-Dec-2015 00:15:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/TestOperationPerformedInProduction.php on line 2
+[07-Dec-2015 00:15:42] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/InvalidSignature.php on line 2
+[07-Dec-2015 00:16:18] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/Authorization.php on line 2
+[07-Dec-2015 00:16:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/Unexpected.php on line 2
+[07-Dec-2015 00:16:42] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/DownForMaintenance.php on line 2
+[07-Dec-2015 00:16:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/SSLCertificate.php on line 2
+[07-Dec-2015 00:17:00] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/Authentication.php on line 2
+[07-Dec-2015 00:17:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/InvalidChallenge.php on line 2
+[07-Dec-2015 00:17:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception/Configuration.php on line 2

@@ -1,0 +1,9 @@
+[07-Dec-2015 00:03:33] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Setup.php on line 2
+[07-Dec-2015 00:04:08] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Helper.php on line 2
+[07-Dec-2015 00:04:48] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/SanityTest.php on line 3
+[18-Dec-2015 05:09:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Setup.php on line 2
+[25-Dec-2015 07:32:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Setup.php on line 2
+[25-Dec-2015 20:10:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Helper.php on line 2
+[26-Dec-2015 07:32:39] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/SanityTest.php on line 3
+[26-Dec-2015 20:06:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Setup.php on line 2
+[26-Dec-2015 20:06:31] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/SanityTest.php on line 3

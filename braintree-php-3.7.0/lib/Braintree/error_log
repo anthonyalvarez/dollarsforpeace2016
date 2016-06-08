@@ -1,0 +1,91 @@
+[07-Dec-2015 00:10:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Xml.php on line 2
+[07-Dec-2015 00:10:16] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Plan.php on line 2
+[07-Dec-2015 00:10:18] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Http.php on line 2
+[07-Dec-2015 00:10:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Util.php on line 2
+[07-Dec-2015 00:10:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Base.php on line 2
+[07-Dec-2015 00:10:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/AddOn.php on line 2
+[07-Dec-2015 00:10:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Digest.php on line 2
+[07-Dec-2015 00:10:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/IsNode.php on line 2
+[07-Dec-2015 00:10:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Gateway.php on line 2
+[07-Dec-2015 00:10:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Address.php on line 2
+[07-Dec-2015 00:10:32] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Dispute.php on line 2
+[07-Dec-2015 00:10:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Version.php on line 2
+[07-Dec-2015 00:10:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/RiskData.php on line 2
+[07-Dec-2015 00:10:38] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/TextNode.php on line 2
+[07-Dec-2015 00:10:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Discount.php on line 2
+[07-Dec-2015 00:10:41] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Instance.php on line 2
+[07-Dec-2015 00:10:43] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Merchant.php on line 2
+[07-Dec-2015 00:10:45] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Customer.php on line 2
+[07-Dec-2015 00:10:47] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Exception.php on line 2
+[07-Dec-2015 00:10:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/RangeNode.php on line 2
+[07-Dec-2015 00:10:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Collection.php on line 2
+[07-Dec-2015 00:10:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Descriptor.php on line 2
+[07-Dec-2015 00:10:54] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CreditCard.php on line 2
+[07-Dec-2015 00:10:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PlanGateway.php on line 2
+[07-Dec-2015 00:10:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/ClientToken.php on line 2
+[07-Dec-2015 00:10:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Transaction.php on line 2
+[07-Dec-2015 00:11:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/ApplePayCard.php on line 2
+[07-Dec-2015 00:11:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/AddOnGateway.php on line 2
+[07-Dec-2015 00:11:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Subscription.php on line 2
+[07-Dec-2015 00:11:06] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Disbursement.php on line 2
+[07-Dec-2015 00:11:08] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/VenmoAccount.php on line 2
+[07-Dec-2015 00:11:10] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/KeyValueNode.php on line 2
+[07-Dec-2015 00:11:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/EqualityNode.php on line 2
+[07-Dec-2015 00:11:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Modification.php on line 2
+[07-Dec-2015 00:11:15] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/OAuthGateway.php on line 2
+[07-Dec-2015 00:11:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PayPalAccount.php on line 2
+[07-Dec-2015 00:11:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PaymentMethod.php on line 2
+[07-Dec-2015 00:11:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Configuration.php on line 2
+[07-Dec-2015 00:11:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/TestingGateway.php on line 2
+[07-Dec-2015 00:11:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/AndroidPayCard.php on line 2
+[07-Dec-2015 00:11:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/WebhookTesting.php on line 2
+[07-Dec-2015 00:11:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CustomerSearch.php on line 2
+[07-Dec-2015 00:11:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/AddressGateway.php on line 2
+[07-Dec-2015 00:11:32] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/MerchantGateway.php on line 2
+[07-Dec-2015 00:11:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/DiscountGateway.php on line 2
+[07-Dec-2015 00:11:35] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/MerchantAccount.php on line 2
+[07-Dec-2015 00:11:37] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CustomerGateway.php on line 2
+[07-Dec-2015 00:11:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CoinbaseAccount.php on line 2
+[07-Dec-2015 00:11:41] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PartnerMerchant.php on line 2
+[07-Dec-2015 00:11:43] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/ThreeDSecureInfo.php on line 2
+[07-Dec-2015 00:11:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PartialMatchNode.php on line 2
+[07-Dec-2015 00:11:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/OAuthCredentials.php on line 2
+[07-Dec-2015 00:11:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/SignatureService.php on line 2
+[07-Dec-2015 00:11:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/EuropeBankAccount.php on line 2
+[07-Dec-2015 00:11:53] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/TransactionSearch.php on line 2
+[07-Dec-2015 00:11:53] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CreditCardGateway.php on line 2
+[07-Dec-2015 00:11:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CredentialsParser.php on line 2
+[07-Dec-2015 00:11:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/MultipleValueNode.php on line 2
+[07-Dec-2015 00:11:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/ResourceCollection.php on line 2
+[07-Dec-2015 00:12:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/TransactionGateway.php on line 2
+[07-Dec-2015 00:12:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/SubscriptionSearch.php on line 2
+[07-Dec-2015 00:12:04] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/ClientTokenGateway.php on line 2
+[07-Dec-2015 00:12:06] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PaymentMethodNonce.php on line 2
+[07-Dec-2015 00:12:08] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/FacilitatorDetails.php on line 2
+[07-Dec-2015 00:12:10] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/SubscriptionGateway.php on line 2
+[07-Dec-2015 00:12:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/WebhookNotification.php on line 2
+[07-Dec-2015 00:12:13] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/TransparentRedirect.php on line 2
+[07-Dec-2015 00:12:15] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/DisbursementDetails.php on line 2
+[07-Dec-2015 00:12:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PayPalAccountGateway.php on line 2
+[07-Dec-2015 00:12:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PaymentMethodGateway.php on line 2
+[07-Dec-2015 00:12:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/UnknownPaymentMethod.php on line 2
+[07-Dec-2015 00:12:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PaymentInstrumentType.php on line 2
+[07-Dec-2015 00:12:24] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/MerchantAccountGateway.php on line 2
+[07-Dec-2015 00:12:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/SettlementBatchSummary.php on line 2
+[07-Dec-2015 00:12:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CreditCardVerification.php on line 2
+[07-Dec-2015 00:12:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/AmexExpressCheckoutCard.php on line 2
+[07-Dec-2015 00:12:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/MultipleValueOrTextNode.php on line 2
+[07-Dec-2015 00:12:37] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/PaymentMethodNonceGateway.php on line 2
+[07-Dec-2015 00:12:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CreditCardVerificationGateway.php on line 2
+[07-Dec-2015 00:12:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/TransparentRedirectGateway.php on line 2
+[07-Dec-2015 00:12:53] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/SettlementBatchSummaryGateway.php on line 2
+[07-Dec-2015 00:12:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/CreditCardVerificationSearch.php on line 2
+[28-Dec-2015 20:26:45] PHP Warning:  require_once(lib/Braintree.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:26:45] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'lib/Braintree.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:27:28] PHP Warning:  require_once(./lib/Braintree.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:27:28] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './lib/Braintree.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:28:00] PHP Warning:  require_once(../lib/Braintree.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:28:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../lib/Braintree.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:28:02] PHP Warning:  require_once(../lib/Braintree.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:28:02] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../lib/Braintree.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/client.php on line 3
+[28-Dec-2015 20:29:58] PHP Parse error:  syntax error, unexpected '[' in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree.php on line 17

@@ -1,0 +1,2 @@
+[07-Dec-2015 00:09:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Braintree/OAuthTestHelper.php on line 2
+[07-Dec-2015 00:09:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Braintree/CreditCardDefaults.php on line 2

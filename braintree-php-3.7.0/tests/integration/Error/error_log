@@ -1,0 +1,2 @@
+[07-Dec-2015 00:13:16] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/integration/Error/ValidationErrorCollectionTest.php on line 2
+[07-Dec-2015 00:13:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/integration/Error/ErrorCollectionTest.php on line 2

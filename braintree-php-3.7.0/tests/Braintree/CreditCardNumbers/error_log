@@ -1,0 +1,1 @@
+[07-Dec-2015 00:13:29] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/Braintree/CreditCardNumbers/CardTypeIndicators.php on line 2

@@ -1,0 +1,1 @@
+[07-Dec-2015 00:13:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/tests/unit/ClientApi/ClientTokenTest.php on line 2

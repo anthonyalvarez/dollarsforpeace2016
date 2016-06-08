@@ -1,0 +1,4 @@
+[07-Dec-2015 00:14:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Error/Validation.php on line 2
+[07-Dec-2015 00:15:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Error/Codes.php on line 2
+[07-Dec-2015 00:15:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Error/ValidationErrorCollection.php on line 2
+[07-Dec-2015 00:17:42] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Error/ErrorCollection.php on line 2

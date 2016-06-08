@@ -1,0 +1,1 @@
+[07-Dec-2015 00:15:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/puchoweb/public_html/dev/braintree/braintree-php-3.7.0/lib/Braintree/Subscription/StatusDetails.php on line 2
