@@ -8,17 +8,17 @@
 </head>
 
 <body link="#666666" alink="#660000" vlink="#333333">
-
+<?php include_once("analyticstracking.php") ?>
 
 
 <table width="720" border="0" cellspacing="0" align="center" cellpadding="0" bgcolor="#FFFFFF">
 
 
-  <tr> 
+  <tr>
     <td width="720" valign="top" align="left">
     <table width="100%" border="0" cellpsacing="0" cellpadding="0">
 <center />
-                
+
     <tr>
 
 <center>
@@ -35,16 +35,16 @@
 <center>
 <table align="center">
     <tr>
-        <tr bgcolor="#cccccc" valign="top"> 
-          <td> 
+        <tr bgcolor="#cccccc" valign="top">
+          <td>
             <table width="232" border="1" cellspacing="1" cellpadding="0">
-              <tr bgcolor="#FFFFFF" valign="top" align="left"> 
-                <td> 
+              <tr bgcolor="#FFFFFF" valign="top" align="left">
+                <td>
 
-    
+
   <table>
-   <tr bgcolor="#FFFFFF"> 
-    <td width="232" valign="top" align="left"> 
+   <tr bgcolor="#FFFFFF">
+    <td width="232" valign="top" align="left">
 <font size="3">
 <center><img src="http://worldpeacesociety.org/images/worldpeacesociety_banner.jpg" alt="World Peace Society" title="World Peace Society(r)" border="0" hspace="0" vspace="0" width="605" height="76">
 <br>
@@ -57,7 +57,7 @@ a non-profit organization</font>
 <br>
 <img src="http://worldpeacesociety.org/images/wps_ourmission_calligraphy.jpg"   title="Dollars for Peace&trade;" alt="Dollars for Peace&trade;" border="0"></a>
 </center>
-</td>                    
+</td>
   </tr>
  </table>
 
@@ -76,16 +76,16 @@ a non-profit organization</font>
 <td width="310" align="center">
 <table>
     <tr>
-        <tr bgcolor="#cccccc" valign="top"> 
-          <td> 
+        <tr bgcolor="#cccccc" valign="top">
+          <td>
             <table width="310" height="300" border="1" cellspacing="1" cellpadding="0">
-              <tr bgcolor="#FFFFFF" valign="top" align="left"> 
-                <td> 
+              <tr bgcolor="#FFFFFF" valign="top" align="left">
+                <td>
 
-	
+
   <table>
-   <tr bgcolor="#FFFFFF"> 
-    <td width="310" valign="center" align="left"> 
+   <tr bgcolor="#FFFFFF">
+    <td width="310" valign="center" align="left">
 <font size="2">
 <br><br><br><br>
 <br><br><br><br>
@@ -95,7 +95,7 @@ Content can be choice of sponsor
 with our approval
 <center>
 </font>
-</td>                    
+</td>
   </tr>
  </table>
 
@@ -113,16 +113,16 @@ with our approval
 <td width="310" align="center">
 <table>
     <tr>
-        <tr bgcolor="#cccccc" valign="top"> 
-          <td> 
+        <tr bgcolor="#cccccc" valign="top">
+          <td>
             <table width="310" height="300" border="1" cellspacing="1" cellpadding="0">
-              <tr bgcolor="#FFFFFF" valign="top" align="left"> 
-                <td> 
+              <tr bgcolor="#FFFFFF" valign="top" align="left">
+                <td>
 
-	
+
   <table>
-   <tr bgcolor="#FFFFFF"> 
-    <td width="305" valign="center" align="left"> 
+   <tr bgcolor="#FFFFFF">
+    <td width="305" valign="center" align="left">
 <font size="2">
 <br><br><br><br>
 <br><br><br><br>
@@ -132,7 +132,7 @@ Content can be choice of sponsor
 with our approval
 <center>
 </font>
-</td>                    
+</td>
   </tr>
  </table>
 

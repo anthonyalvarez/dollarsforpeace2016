@@ -8,17 +8,17 @@
 </head>
 
 <body link="#666666" alink="#660000" vlink="#333333">
-
+<?php include_once("analyticstracking.php") ?>
 
 
 <table width="720" border="0" cellspacing="0" align="center" cellpadding="0" bgcolor="#FFFFFF">
 
 
-  <tr> 
+  <tr>
     <td width="720" valign="top" align="left">
     <table width="100%" border="0" cellpsacing="0" cellpadding="0">
 <center />
-                
+
     <tr>
 
 <center>
@@ -38,7 +38,7 @@ $15 is only the minimum and more, if you can afford it, is appreciated. Fill out
 <br><br>
 We also give an attractive incentive to participants who urge others to join our cause.
 <br>
-Of the first $90 donated two-thirds is given to non-profit World Peace Society and one-third is earned by the enroller. Contributions in excess of $90 are divided 70% to non-profit World Peace Society and 30% to the enroller. <b>This program also offers a wonderful way to meet one&#39;s neighbors and make new friends.</b> 
+Of the first $90 donated two-thirds is given to non-profit World Peace Society and one-third is earned by the enroller. Contributions in excess of $90 are divided 70% to non-profit World Peace Society and 30% to the enroller. <b>This program also offers a wonderful way to meet one&#39;s neighbors and make new friends.</b>
 <br><br>
 Participants simply submit their name, address, phone number, e-mail, and indicate their enroller, if there is one, and a minimum donation of $15. All donations are for yearly dues that are deducted from your credit card or billed, unless otherwise indicated.
 <br><br>
@@ -50,7 +50,7 @@ Participants simply submit their name, address, phone number, e-mail, and indica
 <a id="SPONSOR"><font size="4"><b>WHY SPONSOR?</b></font></center></a>
 <br>
 <font size="3">
-Sponsors will be shown on the site, and initially in the order they join. Every few months we will update the site and show them first in the order of their contribution and then in the order of joining.  
+Sponsors will be shown on the site, and initially in the order they join. Every few months we will update the site and show them first in the order of their contribution and then in the order of joining.
 <br>
 A contribution of $1,000 or more is required to be a sponsor, and the sponsor&#39;s enroller earns 30% of this amount. The benefit of being a sponsor is that you receive great publicity plus obtain extra substantial income if you wish. But most important, you will earn the goodwill of making a significant contribution to <b>creating a better world.</b>
 <br><br>
@@ -199,13 +199,13 @@ Enrollers of both participants and sponsors accrue all earnings but payments of 
 <br>
 <br>
 <a href="contact.php"><b>Click here to send us a check</b></a>
-<br /> 
+<br />
 <table border="0">
 <tr>
 <td id="nextlink">
     <a href="wps.php">NEXT</a>
 
-    <div style="text-align: center; font-weight: bold;"> 
+    <div style="text-align: center; font-weight: bold;">
 <center><a href="index.php">
 <font color="a91515">HOME</font></a>
 &nbsp;&nbsp;&nbsp;

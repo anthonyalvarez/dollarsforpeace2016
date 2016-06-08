@@ -18,6 +18,7 @@
 		</style>
 	</head>
 	<body link="#666666" alink="#660000" vlink="#333333">
+		<?php include_once("analyticstracking.php") ?>
 		<table width="720px" border="0" cellspacing="0" align="center" cellpadding="0">
 			<tr>
 				<td valign="top" align="left">
@@ -41,7 +42,7 @@
 					<font size="3"> Many non-profits look for several ways to raise money. They solicit, advertise, offer membership, and stage special events. We have unique objectives we want to achieve. Basically we want to bring to the whole world a new awareness and concern about the need for universal peace and the ability to achieve it now. The world can no longer afford the cost and dangers that war and violence impose. Though many think war and violence will always be with us, the fact is these problems are created by man so human intervention can end them and <b>every human being should try to do something about it.</b>
 						<br>
 						<br>
-						Certainly it makes sense to offer our contributors,  who care most about our objectives,  an incentive and 
+						Certainly it makes sense to offer our contributors,  who care most about our objectives,  an incentive and
      compensation if they wish to solicit additional participants to our cause.  Whether or not you are solicited, the amount
      you donate is your decision.  It should be what you can afford.  Seems to us, you should respect and thank the solicitor
      for bringing this to your attention and urging you to give to such a worthy cause.  <b>In this way, the whole world gains.</b>
@@ -55,7 +56,7 @@
 			</tr>
 			</table>
 			<table width="700px" border="0" cellspacing="0" align="center" cellpadding="0">
-			
+
 			<tr>
 				<td style="border: 1px solid black;"><font size="3"><b>
 					<center>
@@ -77,7 +78,7 @@
 						<br />
 						THOSE WHO HELP US
 						<br />
-						CAN BENEFIT IN THEIR OWN LIVES AND MISSIONS TOO.				
+						CAN BENEFIT IN THEIR OWN LIVES AND MISSIONS TOO.
 					</center></b><font size="3"></td>
 			</tr>
 <tr>

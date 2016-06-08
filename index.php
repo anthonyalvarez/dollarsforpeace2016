@@ -23,17 +23,17 @@ document.location = "http://dollarsforpeace.org/mobile";
 </head>
 
 <body link="#666666" alink="#660000" vlink="#333333">
-
+<?php include_once("analyticstracking.php") ?>
 
 
 <table width="720" border="0" cellspacing="0" align="center" cellpadding="0" bgcolor="#FFFFFF">
 
 
-  <tr> 
+  <tr>
     <td width="720" valign="top" align="left">
     <table width="100%" border="0" cellpsacing="0" cellpadding="0">
 <center />
-                
+
     <tr>
 
 <center>
@@ -57,8 +57,8 @@ document.location = "http://dollarsforpeace.org/mobile";
 </center>
 <br>
 
-Dollars for Peace aims to do just that by initiating a new movement to create a worldwide military police force that will possess the power to suppress any aggressive invasion or violence that threatens the peace of a country. 
-Also, allow those who truly believe in a more peaceful world to make extra income by urging others to contribute to our efforts. 
+Dollars for Peace aims to do just that by initiating a new movement to create a worldwide military police force that will possess the power to suppress any aggressive invasion or violence that threatens the peace of a country.
+Also, allow those who truly believe in a more peaceful world to make extra income by urging others to contribute to our efforts.
 Any country can obtain the protection of the worldwide police force, but they must be part of this force and they must give free rights to their citizens to choose a representative government of their choice.
 <br>
 <br>
@@ -86,7 +86,7 @@ However, if others offer what they think are better plans, we welcome the ideas<
 <br>
 Is hereby launching a major but simple effort<br>to get a large number of people to demand peace<br>so our
 <br>
-<p style="text-align: center; font-weight: bold;"> 
+<p style="text-align: center; font-weight: bold;">
 	LEADERS WILL KNOW THEY MUST IMPLEMENT SPECIFIC PLANS TO ACHIEVE PEACE
 </p>
 <br />
@@ -94,7 +94,7 @@ Is hereby launching a major but simple effort<br>to get a large number of people
 	<a href="why.php">NEXT</a>
 	</b>
 	</div>
-<div style="text-align: center; font-weight: bold;"> 
+<div style="text-align: center; font-weight: bold;">
 <?php
 include("navigation.html");
 ?>
